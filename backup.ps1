@@ -1,0 +1,1 @@
+Copy-Item "C:\Users\mhafe\Current Vid Working\*" "D:\The Shmoople Archive\Current Vid Backup"
